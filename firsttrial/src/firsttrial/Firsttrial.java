@@ -16,6 +16,11 @@ public class Firsttrial {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        cagle();
     }
     
-}
+     public static void cagle(){
+        System.out.println("github woo hoo");
+    
+}}
